@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netapi", "netapi.csproj", "{900CDDE3-82C2-4CBE-A50C-4C135D6A4CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netapi.Tests", "netapi.Tests\netapi.Tests.csproj", "{1C86B9A8-E95E-4B8E-AD79-C9E3ED6696AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{900CDDE3-82C2-4CBE-A50C-4C135D6A4CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900CDDE3-82C2-4CBE-A50C-4C135D6A4CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900CDDE3-82C2-4CBE-A50C-4C135D6A4CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900CDDE3-82C2-4CBE-A50C-4C135D6A4CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C86B9A8-E95E-4B8E-AD79-C9E3ED6696AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C86B9A8-E95E-4B8E-AD79-C9E3ED6696AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C86B9A8-E95E-4B8E-AD79-C9E3ED6696AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C86B9A8-E95E-4B8E-AD79-C9E3ED6696AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
